@@ -1,2 +1,2 @@
 # SimpleGame-Java
-A simple game in Java that runs in a panel
+A simple Arcade-Style video game that is programmed in Java, using JPanel,ActionListener, and hard work!
