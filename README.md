@@ -3,4 +3,5 @@ A simple game in Java that runs in a JPanel and uses ActionListener to parse for
 A = jump left, B = jump right, space = shoot.  
 
 <h1> demo </h1>
+
 ![](demo.gif)
